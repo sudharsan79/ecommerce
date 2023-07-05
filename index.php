@@ -652,7 +652,7 @@ else {
             <div class="form-group">    
                 <button type="submit" class="btn btn-primary" id="user_submit" name="user_submit" onclick="error();">Login</button>
                 <hr> Or No Account
-                <a href="createacc.php">Create One</a>
+                <a href="user/registration.php">Create One</a>
             </div>  
             
             <div id="show-error-msg"></div>
